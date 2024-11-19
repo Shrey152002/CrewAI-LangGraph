@@ -1,6 +1,3 @@
-# Script to generate README content for a GitHub project
-
-readme_content = f"""
 # CrewAI-LangGraph Email Automation System
 
 ## Overview
